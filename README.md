@@ -18,11 +18,18 @@
 - **Production ML** — churn, segmentation, value-prediction, forecasting, with SHAP explainability and proper evaluation.
 - **Consulting rigour** — 7+ years turning ambiguous problems into shipped work for pharma, retail and fintech clients, leading teams of 15+.
 
-### 🛠️ Featured
+### 🛠️ Featured repositories
 
-- **[llm-rag-eval](https://github.com/VikasRaika/llm-rag-eval)** — a dependency-free toolkit to evaluate RAG/LLM systems (retrieval quality + answer faithfulness), with tests and CI. Open source.
-- **AI products (Admitely, Brez-i)** — 0→1 AI products I designed and built (LLM agents, RAG, behavioural design). Live demos and write-ups on my **[portfolio ↗](https://job-search-lyart-nu.vercel.app)**.
-- **Applied AI in production** — multi-agent LangGraph over CRM data, churn/segmentation/value models with SHAP, production LLM evaluation. (Current in-role work, details on request.)
+| Repo | What it is |
+|---|---|
+| **[llm-rag-eval](https://github.com/VikasRaika/llm-rag-eval)** | Evaluate RAG/LLM systems — retrieval quality + answer faithfulness (EM, F1, groundedness). Tests + CI. |
+| **[agentic-workflow-starter](https://github.com/VikasRaika/agentic-workflow-starter)** | How agentic AI works — a ReAct tool-using agent + a DAG orchestrator, pluggable LLM. |
+| **[llm-finetune-lab](https://github.com/VikasRaika/llm-finetune-lab)** | LoRA fine-tuning reference — tested data pipeline + transformers/peft trainer. |
+| **[rl-gridworld](https://github.com/VikasRaika/rl-gridworld)** | Reinforcement learning from scratch — Q-learning & SARSA on a grid-world MDP. |
+| **[prompt-eval](https://github.com/VikasRaika/prompt-eval)** | Regression-test prompts — declarative assertions, CI-ready. |
+| **[voicematch-ai](https://github.com/VikasRaika/voicematch-ai)** | Applied LLM system — audio → Whisper → Claude → embeddings → matching (FastAPI). |
+
+> **AI products** I designed and built 0→1 (Admitely, Brez-i) — live demos on my **[portfolio ↗](https://job-search-lyart-nu.vercel.app)**. Applied AI in current role: multi-agent LangGraph over CRM, models with SHAP, production LLM evaluation (details on request).
 
 ### 🧰 Tech I work with
 
