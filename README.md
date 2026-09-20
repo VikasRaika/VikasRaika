@@ -2,12 +2,11 @@
 
 <p align="center">
   <b>Data Science &amp; AI leader — I turn AI/ML into products and decisions that move the business.</b><br/>
-  7+ years across consulting (ZS · Genpact · Ganit) and industry · Senior Data Scientist @ The Rank Group · Imperial MBA · London 🇬🇧
+  7+ years across consulting and industry (AI/ML, data science) · Imperial MBA · London 🇬🇧
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-raika-614a54ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vikasrbd@gmail.com"><img src="https://img.shields.io/badge/Email-vikasrbd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://job-search-lyart-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6A4D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -23,7 +22,7 @@
 
 - **[llm-rag-eval](https://github.com/VikasRaika/llm-rag-eval)** — a dependency-free toolkit to evaluate RAG/LLM systems (retrieval quality + answer faithfulness), with tests and CI. Open source.
 - **AI products (Admitely, Brez-i)** — 0→1 AI products I designed and built (LLM agents, RAG, behavioural design). Live demos and write-ups on my **[portfolio ↗](https://job-search-lyart-nu.vercel.app)**.
-- **Applied AI at Rank** — multi-agent LangGraph over CRM, churn/segmentation/value models with SHAP, production LLM evaluation. (In-role, details on request.)
+- **Applied AI in production** — multi-agent LangGraph over CRM data, churn/segmentation/value models with SHAP, production LLM evaluation. (Current in-role work, details on request.)
 
 ### 🧰 Tech I work with
 
