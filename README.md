@@ -5,11 +5,6 @@
   7+ years across consulting and industry (AI/ML, data science) · Imperial MBA · London 🇬🇧
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikas-raika-614a54ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://job-search-lyart-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6A4D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
-
 ---
 
 ### 🚀 What I do
@@ -29,7 +24,7 @@
 | **[prompt-eval](https://github.com/VikasRaika/prompt-eval)** | Regression-test prompts — declarative assertions, CI-ready. |
 | **[voicematch-ai](https://github.com/VikasRaika/voicematch-ai)** | Applied LLM system — audio → Whisper → Claude → embeddings → matching (FastAPI). |
 
-> **AI products** I designed and built 0→1 (Admitely, Brez-i) — live demos on my **[portfolio ↗](https://job-search-lyart-nu.vercel.app)**. Applied AI in current role: multi-agent LangGraph over CRM, models with SHAP, production LLM evaluation (details on request).
+> **Also:** AI products I designed and built 0→1 (Admitely, Brez-i), and applied AI in current role — multi-agent LangGraph over CRM, models with SHAP, production LLM evaluation. Details and demos available on request.
 
 ### 🧰 Tech I work with
 
